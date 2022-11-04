@@ -1,3 +1,16 @@
+nav{
+font-display: 30px;
+font-style: oblique;
+}
+
+
+nav li{ 
+display: inline;
+margin: 0 0 0 30%;
+font-style: oblique;
+}
+
+
 h1{
 color: whitesmoke;
 
